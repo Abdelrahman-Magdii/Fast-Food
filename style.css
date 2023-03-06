@@ -652,5 +652,8 @@ footer {
     .hero .right .img-container::before {
         display: none;
     }
+    footer {
+        font-size: 1rem;
+    }
 }
 
